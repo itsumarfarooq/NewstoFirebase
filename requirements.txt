@@ -1,0 +1,8 @@
+requests
+parcel
+python_jwt
+gcloud
+sseclient
+pycryptodome
+requests-toolbelt
+firebase
